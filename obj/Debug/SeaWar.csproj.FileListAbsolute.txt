@@ -1,0 +1,10 @@
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\bin\Debug\SeaWar.exe.config
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\bin\Debug\SeaWar.exe
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\bin\Debug\SeaWar.pdb
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.csprojAssemblyReference.cache
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.Form1.resources
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.Properties.Resources.resources
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.GenerateResource.cache
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.CoreCompileInputs.cache
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.exe
+C:\Users\Филиппов Максим\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.pdb
